@@ -1,0 +1,9 @@
+C:\Users\Misha\RiderProjects\Stack and Queue with minimum\Stack and Queue with minimum\bin\Debug\net472\Stack and Queue with minimum.exe.config
+C:\Users\Misha\RiderProjects\Stack and Queue with minimum\Stack and Queue with minimum\bin\Debug\net472\Stack and Queue with minimum.exe
+C:\Users\Misha\RiderProjects\Stack and Queue with minimum\Stack and Queue with minimum\bin\Debug\net472\Stack and Queue with minimum.pdb
+C:\Users\Misha\RiderProjects\Stack and Queue with minimum\Stack and Queue with minimum\obj\Debug\net472\Stack and Queue with minimum.csprojAssemblyReference.cache
+C:\Users\Misha\RiderProjects\Stack and Queue with minimum\Stack and Queue with minimum\obj\Debug\net472\Stack and Queue with minimum.AssemblyInfoInputs.cache
+C:\Users\Misha\RiderProjects\Stack and Queue with minimum\Stack and Queue with minimum\obj\Debug\net472\Stack and Queue with minimum.AssemblyInfo.cs
+C:\Users\Misha\RiderProjects\Stack and Queue with minimum\Stack and Queue with minimum\obj\Debug\net472\Stack and Queue with minimum.csproj.CoreCompileInputs.cache
+C:\Users\Misha\RiderProjects\Stack and Queue with minimum\Stack and Queue with minimum\obj\Debug\net472\Stack and Queue with minimum.exe
+C:\Users\Misha\RiderProjects\Stack and Queue with minimum\Stack and Queue with minimum\obj\Debug\net472\Stack and Queue with minimum.pdb
